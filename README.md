@@ -32,7 +32,7 @@ steps:
 1. **Download the source** with a `git clone` of the [Metropolis repository](https://github.com/matze/mtheme) or as a [zip archive](https://github.com/matze/mtheme/archive/master.zip) of the latest development version.
 
 2. **Compile the style files** by running `make sty` inside the downloaded
-    directory. (Or run LaTeX directly on `source/metropolistheme.ins`.)
+    directory. (Or run LaTeX directly on `source/beamerthememetropolis.ins`.)
 
 3. **Move the resulting `*.sty` files** to the folder containing your
    presentation. To use Metropolis with many presentations, run `make install`
